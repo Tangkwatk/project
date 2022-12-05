@@ -1,0 +1,26 @@
+.border{
+
+    border: dashed 5px;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    padding: 2rem;
+   
+
+}
+.font-1{
+    font-size: 35px;
+    color: white;
+    
+   
+
+  
+}
+.font-2{
+    font-size: 50px;
+    color: white;
+
+   
+}
